@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c3274809-ffd1-420a-ae1f-b23f642ba4d0"
+      }
+    },
+    "owner": "ovilia"
   }
 }
